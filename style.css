@@ -1,0 +1,47 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    width: 60px;
+    text-decoration: none;
+}
+a:hover{
+	font-weight: bold;
+}
+
+#set {
+	float: right;
+}
+
+#logo{
+	position: relative;
+	top: 150px;
+	right: -550px;
+}
+#search{
+	position: relative;
+	right: -385px;
+	top: 150px;
+}
+#footer{
+	position: relative;
+	top:450;
+}
+#footer2{
+	position: relative;
+	top:450;
+	left:900;
+}
+#footer a {
+    display: block;
+    width: 80px;
+    text-decoration: none;
+}
